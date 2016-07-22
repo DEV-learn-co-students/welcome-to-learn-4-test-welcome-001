@@ -7,4 +7,4 @@
 
 Download the learn IDE here: 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4-test'>Welcome to Learn 4 (Test)</a> on Learn.co and start learning to code for free.</p>
-<div><a href="/tracks/welcome-to-learn/welcome/getting-started/welcome-to-learn-4-test/?create_password=true&testing=true">Placeholder for the download button image</a></div>
+<div><a href="/tracks/welcome-to-learn/welcome/getting-started/welcome-to-learn-4-test/?create_password=true">Placeholder for the download button image</a></div>
